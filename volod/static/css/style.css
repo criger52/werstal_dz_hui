@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+textarea {
+  resize: none;
+}
+
+.left{
+
+}
+
+
+.test-class{
+    height: 48px;
+    background-color: #F5F5F5;
+    border: none;
+    width: 100%;
+    padding-left:23px;
+}
+.formm{
+    padding-left: 58px;
+    max-width: 585px;
+    display: grid;
+    grid-template-columns: 224px 224px;
+    gap: 22px;
+}
+.test-class-big{
+    height: 180px;
+    background-color: #F5F5F5;
+    border: none;
+    width: 470px;
+    padding-left:23px;
+    padding-top:17px;
+}
+
